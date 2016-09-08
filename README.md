@@ -1,7 +1,10 @@
-# scala-learning
+# scala jump start
 our team is about to learn scala
-
-
+## как будем работать:
+- создаем `issue` для каждого участника группы
+- делаем. 
+- код  коммитим в папку\репозиторий каждого участника
+- закрываем `issue`
 ## top resources
 
 ### - [book](http://www.ex.ua/66721237)
