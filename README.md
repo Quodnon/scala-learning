@@ -1,10 +1,11 @@
 # scala-learning
 our team is about to learn scala
 
-
+# [our wiki](wiki/index.md)
 ## top resources
 
 ### [Codeacademy COMMAND LINE](https://www.codecademy.com/en/courses/learn-the-command-line)
+
 
 ### - [book](http://www.ex.ua/66721237)
 
