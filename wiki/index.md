@@ -1,2 +1,2 @@
 # OUR HANDFUL SOURCES
-+ [basic linux commands](basic_of_linux.md)
++ [basic linux commands](basics_of_linux.md)
