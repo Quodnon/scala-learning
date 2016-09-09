@@ -1,7 +1,14 @@
-# scala-learning
+# scala jump start
 our team is about to learn scala
 
 # [our wiki](wiki/index.md)
+=======
+## как будем работать:
+- создаем `issue` для каждого участника группы
+- делаем. 
+- код  коммитим в папку\репозиторий каждого участника
+- закрываем `issue`
+>>>>>>> 9832fefc62ee5ed3d231353f0398a052921282a9
 ## top resources
 
 ### [Codeacademy COMMAND LINE](https://www.codecademy.com/en/courses/learn-the-command-line)
