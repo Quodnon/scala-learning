@@ -4,6 +4,8 @@ our team is about to learn scala
 
 ## top resources
 
+### [Codeacademy COMMAND LINE](https://www.codecademy.com/en/courses/learn-the-command-line)
+
 ### - [book](http://www.ex.ua/66721237)
 
 ### - [CHAT GITTER](https://gitter.im/dev-ua/scala) 
