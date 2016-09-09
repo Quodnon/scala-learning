@@ -27,7 +27,7 @@ http://twitter.github.io/effectivescala/index-ru.html
 
 
 # Installation
-зайти **(CЮДИ)[https://community.c9.io/t/creating-a-scala-app/1605]** й почитати статтю
+зайти **[CЮДИ](https://community.c9.io/t/creating-a-scala-app/1605)** й почитати статтю
 замінити 2.11.5 на 2.11.8 
 
 виконати цей код в терміналі. 
