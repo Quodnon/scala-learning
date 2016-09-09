@@ -39,3 +39,5 @@ echo "SCALA_HOME=\"$HOME/scala-2.11.8\""  >> ../.profile
 echo "PATH=\"$PATH:$SCALA_HOME/bin\"" >> ../.profile
 rm scala-2.11.8.tgz 
 ```
+
+далі в терміналі можна виконати `scala` для запуску командного інтерпретатора скали
