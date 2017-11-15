@@ -1,6 +1,6 @@
 # scala jump start
 our team is about to learn scala
-- i am superpower
+
 # [our wiki](wiki/index.md)
 =======
 ## как будем работать:
@@ -24,6 +24,7 @@ https://github.com/anton-k/ru-neophyte-guide-to-scala
 
 https://github.com/non/spire 
 
+-asdasd
 
 ##Уроки 
 http://twitter.github.io/scala_school/ru/index.html
