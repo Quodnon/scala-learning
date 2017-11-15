@@ -1,5 +1,7 @@
 # scala jump start
 our team is about to learn scala
+ 
+ - maind
 
 # [our wiki](wiki/index.md)
 =======
