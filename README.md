@@ -1,6 +1,6 @@
 # scala jump start
 our team is about to learn scala
-
+- i am superpower
 # [our wiki](wiki/index.md)
 =======
 ## как будем работать:
