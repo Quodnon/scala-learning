@@ -27,6 +27,7 @@ https://github.com/anton-k/ru-neophyte-guide-to-scala
 
 https://github.com/non/spire 
 
+-asdasd
 
 ##Уроки 
 http://twitter.github.io/scala_school/ru/index.html
