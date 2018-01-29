@@ -1,6 +1,6 @@
 # scala jump start
 our team is about to learn scala
-
+asd
 # [our wiki](wiki/index.md)
 =======
 ## как будем работать:
@@ -51,3 +51,4 @@ rm scala-2.11.8.tgz
 ```
 
 далі в терміналі можна виконати `scala` для запуску командного інтерпретатора скали
+test multiple prs
