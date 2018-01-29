@@ -1,6 +1,8 @@
 # scala jump start
 our team is about to learn scala
 asd
+tset 2
+
 # [our wiki](wiki/index.md)
 =======
 ## как будем работать:
